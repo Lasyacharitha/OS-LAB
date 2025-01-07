@@ -4,4 +4,4 @@ Operating system lab
 ##General command outputs
 ### cd command output
 ![cd command output](cd.png)
-![cd command manual](mcd.png)
+![cd command manual](mancd.png)

@@ -2,6 +2,6 @@
 Operating system lab
 #Basic unix commands practice outputs
 ##General command outputs
-### cd command output
-![cd command output](cd.png)
-![cd command manual](mancd.png)
+### touch command output
+![touch command output](touchfilename.png)
+![touch command manual](mtouchfilename.png)

@@ -4,4 +4,4 @@ Operating system lab
 ##General command outputs
 ### pwd command output
 ![pwd command output](pwd.png)
-![pwd command manual](mpwd.png)
+![pwd command manual](manpwd.png)

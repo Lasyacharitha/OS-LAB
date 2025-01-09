@@ -2,6 +2,6 @@
 Operating system lab
 #Basic linux practice 
 ##General command outputs
-### cd command output
-![cd command output](cd.png)
-![cd command manual](mcd.png)
+### date command output
+![date command output](date.png)
+![date command manual](mdate.png)

@@ -4,4 +4,4 @@ Operating system lab
 ##General command outputs
 ### echofilename command output
 ![echofile command output](echofilename.png)
-![ecofile command manual](echofileman.png)
+![ecofileman command manual](echofileman.png)

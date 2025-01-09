@@ -4,4 +4,4 @@ Operating system lab
 ##General command outputs
 ### cpif1f2 command output
 ![cpif1f2 command output](cpif1f2.png)
-![manual command manual](cpif1f2man.png)
+![cpif1f2 command manual](cpif1f2man.png)

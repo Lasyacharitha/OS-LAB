@@ -2,6 +2,6 @@
 Operating system lab
 #Basic linux practice 
 ##General command outputs
-### dateyaer command output
-![dateyaer command output](dateyaer.png)
-![dateyaer command manual](dateyaerman.png)
+### echofile command output
+![echofile command output](echofile.png)
+![echofile command manual](echofileman.png)

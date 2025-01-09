@@ -1,6 +1,6 @@
 # OS-LAB
 Operating system lab
-#Basic linux commands practice 
+#Basic linux practice 
 ##General command outputs
 ### cd command output
 ![cd command output](cd.png)

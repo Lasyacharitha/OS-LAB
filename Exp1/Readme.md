@@ -2,6 +2,6 @@
 Operating system lab
 #Basic linux practice 
 ##General command outputs
-### cpsrcdes command output
-![cpsrcdes command output](cpsrcdes.png)
-![cpsrcdes command manual](mspsrcdes.png)
+### pwd command output
+![pwd command output](pwd.png)
+![pwd command manual](mpwd.png)

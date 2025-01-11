@@ -4,4 +4,4 @@ Operating system lab
 ##General command outputs
 ### bc command output
 ![bc command output](bc.png)
-![bc man command manual](bc man.png)
+![bcman command manual](bcman.png)

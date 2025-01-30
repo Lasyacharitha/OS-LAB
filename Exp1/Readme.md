@@ -4,6 +4,9 @@ Operating system lab
 ##General command outputs
 # date command output
 ![date command output](date.png)
+![dateyaer command output](dateyaer.png)
+![datehour command output](datehour.png)
+![datetime command output](datetime.png)
 ![manual command manual](manual.png)
 # pwd command output
 ![pwd command output](pwd.png)
@@ -34,7 +37,38 @@ Operating system lab
 ![manual command manual](catfileman.png)
 # cp command output
 ![cp command output](cpsrcdes.png)
+![compare command output](comparef1f2.png)
+![cpi command output](cpif1f2.png)
+![cpr command output](cprf1f2.png)
+![cpfd command output](cprfileanddir.png)
 ![manual command manual](cpman.png)
 # ls command output
 ![ls command output](ls.png)
+![lsfname command output](lsfname.png)
+![lsfnstar command output](lsfnstar.png)
+![lsr1 command output](lsr1.png)
+![lsx command output](lsx.png)
 ![manual command manual](lsman.png)
+# cal command output
+![cal command output](cal.png)
+![manual command manual](calman.png)
+![calmonyear command output](calmonyear.png)
+![calyear command output](calyear.png)
+# cd command output
+![cd command output](cd.png)
+![manual command manual](cdman.png)
+# move command output
+![mv command output](mvsrcdes.png)
+![mvfdir command output](mvfiledir.png)
+![manual command manual](mvsrcdesman.png)
+# rm command output
+![rmdir command output](rmdir.png)
+![rmfilename command output](rmfilename.png)
+![rmfstar command output](rmfstar.png)
+![rms command output](rms.png)
+![rmstar command output](rmstar.png)
+![rmhyphen rstar command output](rmhyphen rstar.png)
+![manual command manual](rmstarman.png)
+![manual command manual](rmfilenameman.png)
+
+

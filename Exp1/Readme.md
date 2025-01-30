@@ -54,9 +54,9 @@ Operating system lab
 ![manual command manual](cpman.png)
 # ls command output
 ![ls command output](ls.png)
-
 ![lsfname command output](lsfname.png)
 ![lsfnstar command output](lsfnstar.png)
+
 ![lsr1 command output](lsr1.png)
 ![lsx command output](lsx.png)
 ![manual command manual](lsman.png)

@@ -22,12 +22,11 @@ Operating system lab
 # tty command output
 ![tty command output](tty.png)
 ![manual command manual](ttyman.png)
-
-
 # uname command output
 ![uname command output](uname.png)
 ![unamen command output](unamen.png)
 ![unamer command output](unamer.png)
+
 ![manual command manual](unameman.png)
 ![manual command manual](unamenman.png)
 # bc command output

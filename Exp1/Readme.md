@@ -10,7 +10,7 @@ Operating system lab
 ![manual command manual](manpwd.png)
 # echo command output
 ![echo command output](echofilename.png)
-![manual command manual](echofileman.png)
+![manual command manual](ecofileman.png)
 # who command output
 ![who command output](who.png)
 ![manual command manual](whoman.png)

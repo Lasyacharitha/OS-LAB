@@ -46,8 +46,8 @@ Operating system lab
 ![cp command output](cpsrcdes.png)
 ![compare command output](comparef1f2.png)
 ![cpi command output](cpif1f2.png)
-![cpr command output](cprf1f2.png)
-![cpfd command output](cprfileanddir.png)
+![cpr command output](cprf1f2man.png)
+![cpfd command output](cprfileaanddir.png)
 ![manual command manual](cpman.png)
 # ls command output
 ![ls command output](ls.png)

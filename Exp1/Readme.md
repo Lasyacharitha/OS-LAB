@@ -58,6 +58,7 @@ Operating system lab
 ![manual command manual](lsman.png)
 # cal command output
 ![cal command output](cal.png)
+
 ![manual command manual](calman.png)
 ![calmonyear command output](calmonyear.png)
 ![calyear command output](calyear.png)
@@ -66,6 +67,7 @@ Operating system lab
 ![manual command manual](cdman.png)
 # move command output
 ![mv command output](mvsrcdes.png)
+
 ![mvfdir command output](mvfiledir.png)
 ![manual command manual](mvsrcdesman.png)
 # rm command output

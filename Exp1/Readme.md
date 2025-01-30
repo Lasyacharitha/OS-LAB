@@ -6,8 +6,8 @@ Operating system lab
 ![date command output](date.png)
 ![dateyaer command output](dateyaer.png)
 ![datehour command output](datehour.png)
-
 ![datetime command output](datetime.png)
+
 ![manual command manual](manual.png)
 # pwd command output
 ![pwd command output](pwd.png)

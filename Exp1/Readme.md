@@ -46,6 +46,7 @@ Operating system lab
 ![manual command manual](catfileman.png)
 # cp command output
 ![cp command output](cpsrcdes.png)
+
 ![compare command output](comparef1f2.png)
 ![cpi command output](cpif1f2.png)
 ![cpr command output](cprf1f2man.png)
@@ -53,6 +54,7 @@ Operating system lab
 ![manual command manual](cpman.png)
 # ls command output
 ![ls command output](ls.png)
+
 ![lsfname command output](lsfname.png)
 ![lsfnstar command output](lsfnstar.png)
 ![lsr1 command output](lsr1.png)

@@ -16,13 +16,17 @@ Operating system lab
 ![manual command manual](ecofileman.png)
 # who command output
 ![who command output](who.png)
+![whoami command output](whoami.png)
 ![manual command manual](whoman.png)
 # tty command output
 ![tty command output](tty.png)
 ![manual command manual](ttyman.png)
 # uname command output
 ![uname command output](uname.png)
+![unamen command output](unamen.png)
+![unamer command output](unamer.png)
 ![manual command manual](unameman.png)
+![manual command manual](unamenman.png)
 # bc command output
 ![bc command output](bc.png)
 ![manual command manual](bcman.png)
@@ -70,5 +74,8 @@ Operating system lab
 ![rmhyphen rstar command output](rmhyphen rstar.png)
 ![manual command manual](rmstarman.png)
 ![manual command manual](rmfilenameman.png)
+# touch command output
+![touch command output](touchfilename.png)
+![manual command manual](touchman.png)
 
 

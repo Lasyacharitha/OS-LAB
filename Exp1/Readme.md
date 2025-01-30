@@ -18,6 +18,7 @@ Operating system lab
 ![manual command manual](ecofileman.png)
 # who command output
 ![who command output](who.png)
+
 ![whoami command output](whoami.png)
 ![manual command manual](whoman.png)
 # tty command output

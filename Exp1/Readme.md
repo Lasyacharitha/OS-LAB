@@ -27,8 +27,8 @@ Operating system lab
 ![uname command output](uname.png)
 ![unamen command output](unamen.png)
 ![unamer command output](unamer.png)
-
 ![manual command manual](unameman.png)
+
 ![manual command manual](unamenman.png)
 # bc command output
 ![bc command output](bc.png)

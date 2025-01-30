@@ -4,9 +4,9 @@ Operating system lab
 ##General command outputs
 # date command output
 ![date command output](date.png)
-
 ![dateyaer command output](dateyaer.png)
 ![datehour command output](datehour.png)
+
 ![datetime command output](datetime.png)
 ![manual command manual](manual.png)
 # pwd command output

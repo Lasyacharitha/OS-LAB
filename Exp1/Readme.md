@@ -37,6 +37,7 @@ Operating system lab
 ![manual command manual](bcman.png)
 # history command output
 ![history command output](history.png)
+
 # mkdir command output
 ![mkdir command output](makedir.png)
 ![manual command manual](mkdirman.png)

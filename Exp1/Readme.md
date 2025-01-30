@@ -9,6 +9,7 @@ Operating system lab
 ![datetime command output](datetime.png)
 
 ![manual command manual](manual.png)
+
 # pwd command output
 ![pwd command output](pwd.png)
 ![manual command manual](manpwd.png)
